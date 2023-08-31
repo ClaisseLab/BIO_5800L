@@ -21,7 +21,8 @@ website:
     right:  
       - icon: house-fill
         href: https://claisselab.com
-
+      - icon: github
+        href: https://github.com/ClaisseLab
 format:
   html:
     theme: darkly

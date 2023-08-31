@@ -1,9 +1,6 @@
 ---
-title: "BIO_5800L"
+title: "BIO 5800L"
 ---
 
-TEST TEXT
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Resources for BIO 5800L Research and Teaching Professional Development

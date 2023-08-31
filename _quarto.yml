@@ -3,16 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "BIO_5800L"
+  title: "BIO 5800L"
   navbar:
+    background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Resources"
+        file: index.qmd
+      - text: "BIO 5100"
+        href: https://claisselab.github.io/BIO_5100/
+    right:
+      - icon: house-fill
+        href: https://claisselab.com
+      - icon: github
+        href: https://github.com/ClaisseLab
+  page-footer:
+    left: This is a quarto built website <https://quarto.org/docs/websites>.
+    right:  
+      - icon: house-fill
+        href: https://claisselab.com
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 

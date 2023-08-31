@@ -1,6 +1,18 @@
 ---
-title: "BIO 5800L"
+title: "BIO 5800L Resources"
 ---
 
+## Literature Search & Citing
 
-Resources for BIO 5800L Research and Teaching Professional Development
+#### [Connect your Google Scholar to CPP Library to access pdfs of journal articles](https://libguides.library.cpp.edu/c.php?g=863498&p=6191577)
+
+-   Link your CPP library account to your google scholar
+
+#### [Zotero Refernece Managment Software](https://www.zotero.org/)
+
+-   Zotero is a free, easy-to-use tool to help you
+collect, organize, annotate, create and format in-text citations and literature cited list in your documents.
+
+#### [How to appropriately cite R and R packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
+
+-   A short primer from a popular R blog on how to cite R and R packages in your thesis, publications, etc.

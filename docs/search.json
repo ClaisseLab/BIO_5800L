@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BIO_5800L",
+    "title": "BIO 5800L Resources",
     "section": "",
-    "text": "TEST TEXT\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Link your CPP library account to your google scholar\n\n\n\n\n\nZotero is a free, easy-to-use tool to help you collect, organize, annotate, create and format in-text citations and literature cited list in your documents.\n\n\n\n\n\nA short primer from a popular R blog on how to cite R and R packages in your thesis, publications, etc."
+  },
+  {
+    "objectID": "index.html#literature-search-citing",
+    "href": "index.html#literature-search-citing",
+    "title": "BIO 5800L Resources",
+    "section": "",
+    "text": "Link your CPP library account to your google scholar\n\n\n\n\n\nZotero is a free, easy-to-use tool to help you collect, organize, annotate, create and format in-text citations and literature cited list in your documents.\n\n\n\n\n\nA short primer from a popular R blog on how to cite R and R packages in your thesis, publications, etc."
   }
 ]

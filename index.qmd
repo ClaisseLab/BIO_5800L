@@ -24,6 +24,15 @@ title: "BIO 5800L Resources"
 
 -   A straightforward guide to writing each section of a thesis/paper. While originally conceived for undergrads, it is also great for grad students.
 
+## Scientific Posters
+
+#### [How to create a better research poster in less time (Generation 1 Video)](https://www.youtube.com/watch?v=1RwJbhkCA58)
+
+#### [How to create a better research poster in less time (Generation 2 Video - explains the science behind effective communication w/ posters)](https://www.youtube.com/watch?v=SYk29tnxASs)
+
+-   **Stop creating posters that are walls of text (that nobody will ever read) and create more effective communication tools in less time...**
+-   [PPT poster TEMPLATES](https://osf.io/6ua4k/)
+
 ## Using Canvas (as an instructor)
 
 #### [2 hr video tutorial on using Canvas as an instructor (Linkedin Learning) ](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=56973593)

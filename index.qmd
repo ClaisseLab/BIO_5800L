@@ -2,6 +2,7 @@
 title: "BIO 5800L Resources"
 ---
 
+## [Funding Sources Page](https://claisselab.github.io/BIO_5800/Funding_Sources.html)
 
 ## Literature Search & Citing
 

@@ -10,9 +10,35 @@ title: "BIO 5800L Resources"
 
 #### [Zotero Refernece Managment Software](https://www.zotero.org/)
 
--   Zotero is a free, easy-to-use tool to help you
-collect, organize, annotate, create and format in-text citations and literature cited list in your documents.
+-   Zotero is a free, easy-to-use tool to help you collect, organize, annotate, create and format in-text citations and literature cited list in your documents.
 
 #### [How to appropriately cite R and R packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/)
 
 -   A short primer from a popular R blog on how to cite R and R packages in your thesis, publications, etc.
+
+## Scientific Writing
+
+#### [Turbek et al. 2016. **Scientific Writing Made Easy: A Step-by-Step Guide to Undergraduate Writing in the Biological Sciences.** Bull Ecol Soc Am, 97: 417-426.](https://esajournals.onlinelibrary.wiley.com/share/2CMJAIKAAZ2VRPTBZNIP?target=10.1002/bes2.1258)
+
+-   A straightforward guide to writing each section of a thesis/paper. While originally conceived for undergrads, it is also great for grad students.
+
+## Being a Mentor
+
+#### [Emery et al. 2019. Strategies for successful mentorship of undergraduate researchers. Ecol Evol. 9: 4316–4326.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5090)
+
+-   As graduate students mentoring undergrad researchers in your lab is an important experience to get for any career path you are interested in (and something you should put on your CV). Whether you are interviewing for PhD programs, for a job in a biotech company or an environmental consulting firm, you should be prepared to describe your experience in the critical skill of training and managing others. This paper provides guidance on how to be a good mentor.
+
+## Applying to PhD programs
+
+#### [Estien et al. 2023. **Demystifying the Graduate School Application Process.** Bull Ecol Soc Am 104(1):e02029.](https://esajournals.onlinelibrary.wiley.com/share/ADE5MIJSKDPWUIHIRIU3?target=10.1002/bes2.2029)
+
+-   Navigating the graduate school application process is often challenging, requiring intricate knowledge of academia and graduate institutional structures. This "Hidden Curriculum of Academia" includes what different graduate degrees offer, how to connect with a faculty member of interest, and the skills needed to submit a "competitive" application.
+
+#### [(PDF download) Some Advice for Prospective Graduate Students (from a PI's perspective)](https://livecsupomona-my.sharepoint.com/:b:/g/personal/jtclaisse_cpp_edu/EVLTQlWIjwpHs0_MZK1xdtEBIFXrYM0sIA9iCqDlgDJwQg?e=u1GJAq)
+
+-   Here's some advice from a professor about applying to their lab, but generally applicable.
+
+#### [(PDF download) Applying to PhD programs timeline for the year you are applying (from a current PhD student's perspective)](https://livecsupomona-my.sharepoint.com/:b:/g/personal/jtclaisse_cpp_edu/ESf8kREGe8BJhT-4ph0Xg-0B7HfheHnzewmzMgzmTH9qpw?e=urvE2A)
+
+-   Written by a current PhD student, here's their advice on a timeline and strategy for applying to PhD programs.
+-   Note - GRE scores are being removed as a requirement for many programs, so check that for programs you are considering applying before you start studying

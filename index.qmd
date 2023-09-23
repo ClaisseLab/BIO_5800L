@@ -10,7 +10,7 @@ title: "BIO 5800L Resources"
 
 -   Link your CPP library account to your google scholar
 
-#### [Zotero Refernece Managment Software](https://www.zotero.org/)
+#### [Zotero Reference Managment Software](https://www.zotero.org/)
 
 -   Zotero is a free, easy-to-use tool to help you collect, organize, annotate, create and format in-text citations and literature cited list in your documents.
 

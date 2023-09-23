@@ -2,6 +2,7 @@
 title: "BIO 5800L Resources"
 ---
 
+
 ## Literature Search & Citing
 
 #### [Connect your Google Scholar to CPP Library to access pdfs of journal articles](https://libguides.library.cpp.edu/c.php?g=863498&p=6191577)
@@ -22,11 +23,21 @@ title: "BIO 5800L Resources"
 
 -   A straightforward guide to writing each section of a thesis/paper. While originally conceived for undergrads, it is also great for grad students.
 
+## Using Canvas (as an instructor)
+
+#### [2 hr video tutorial on using Canvas as an instructor (Linkedin Learning) ](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=56973593)
+
+#### [CPP training and support links for Canvas) ](https://www.cpp.edu/cafe/teaching-and-learning/lms-support/index.shtml)
+
 ## Being a Mentor
 
 #### [Emery et al. 2019. Strategies for successful mentorship of undergraduate researchers. Ecol Evol. 9: 4316–4326.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5090)
 
 -   As graduate students mentoring undergrad researchers in your lab is an important experience to get for any career path you are interested in (and something you should put on your CV). Whether you are interviewing for PhD programs, for a job in a biotech company or an environmental consulting firm, you should be prepared to describe your experience in the critical skill of training and managing others. This paper provides guidance on how to be a good mentor.
+
+#### [Markle et al. 2022. Supporting Historically Underrepresented Groups in STEM Higher Education: The Promise of Structured Mentoring Networks. Frontiers in Education 7.](https://www.frontiersin.org/articles/10.3389/feduc.2022.674669/full)
+
+-   Additional guidance for mentoring URM students.
 
 ## Applying to PhD programs
 

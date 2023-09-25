@@ -35,19 +35,26 @@ title: "BIO 5800L Resources"
 
 ## Using Canvas (as an instructor)
 
-#### [2 hr video tutorial on using Canvas as an instructor (Linkedin Learning) ](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=56973593)
+#### [2 hr video tutorial on using Canvas as an instructor (Linkedin Learning)](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=56973593)
 
-#### [CPP training and support links for Canvas) ](https://www.cpp.edu/cafe/teaching-and-learning/lms-support/index.shtml)
+#### [CPP training and support links for Canvas)](https://www.cpp.edu/cafe/teaching-and-learning/lms-support/index.shtml)
 
 ## Being a Mentor
 
-#### [Emery et al. 2019. Strategies for successful mentorship of undergraduate researchers. Ecol Evol. 9: 4316–4326.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5090)
+#### [Emery et al. 2019. Strategies for successful mentorship of undergraduate researchers. Ecol Evol. 9: 4316--4326.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5090)
 
 -   As graduate students mentoring undergrad researchers in your lab is an important experience to get for any career path you are interested in (and something you should put on your CV). Whether you are interviewing for PhD programs, for a job in a biotech company or an environmental consulting firm, you should be prepared to describe your experience in the critical skill of training and managing others. This paper provides guidance on how to be a good mentor.
 
 #### [Markle et al. 2022. Supporting Historically Underrepresented Groups in STEM Higher Education: The Promise of Structured Mentoring Networks. Frontiers in Education 7.](https://www.frontiersin.org/articles/10.3389/feduc.2022.674669/full)
 
 -   Additional guidance for mentoring URM students.
+
+## General Grad School Advice & Time Management
+
+#### [Nine tips for managing time in grad school (ASBMB Article)](https://www.asbmb.org/asbmb-today/careers/081722/nine-tips-for-managing-time-in-grad-school?)
+
+#### [What Not to Do in Grad School (Nature.com blog post)](https://www.nature.com/articles/d41586-019-02255-7)
+
 
 ## Applying to PhD programs
 

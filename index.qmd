@@ -24,6 +24,14 @@ title: "BIO 5800L Resources"
 
 -   A straightforward guide to writing each section of a thesis/paper. While originally conceived for undergrads, it is also great for grad students.
 
+#### [Methods section too short? Use online protocols to make complex techniques understandable](https://www.nature.com/articles/d41586-023-03249-2)
+
+-   Looking for a method protocol? Check out this article for where to find published versions.
+
+-   Develop a method protocol as part of your thesis? Consider publishing it in a peer-reviewed journal.
+
+-   Some protocols, such as those published on [Nature Protocol Exchange](https://www.nature.com/nprot/protocolexchange), Cell Press's [STAR Protocols](https://www.cell.com/star-protocols/home), [PLOS Lab Protocols](https://collections.plos.org/collection/lab-protocols/) and [Bio-protocol](https://bio-protocol.org/en), are hosted by journal publishers, but there are other options, including [Protocols.io](https://www.protocols.io/) and [OpenWetWare.org](https://openwetware.org/wiki/Main_Page).
+
 ## Scientific Posters
 
 #### [How to create a better research poster in less time (Generation 1 Video)](https://www.youtube.com/watch?v=1RwJbhkCA58)
@@ -60,8 +68,9 @@ title: "BIO 5800L Resources"
 ## Career Advice/Perspectives
 
 #### [Podcast: The World of Scientists (CPP grad student produced)](https://anchor.fm/world-of-scientists)
--  Can click on the Apple Podcasts, Spotify, or Google Podcasts icons on this website or you can listen directly from this link
--  Interviews with CPP Biology Faculty and staff about their career paths etc.
+
+-   Can click on the Apple Podcasts, Spotify, or Google Podcasts icons on this website or you can listen directly from this link
+-   Interviews with CPP Biology Faculty and staff about their career paths etc.
 
 ## Applying to PhD programs
 
@@ -71,7 +80,7 @@ title: "BIO 5800L Resources"
 
 #### [(PDF download) A guide for applying to graduate school in Biology (Written by The German Lab, Dept. of Ecology & Evolutionary Biology, UC Irvine)](https://t.co/64nybx1Nlv)
 
--   To provide a guideline for prospective and current graduate students who might not know how to navigate the process. Expose what they don’t tell you and provide tips and advice on applying to graduate school.
+-   To provide a guideline for prospective and current graduate students who might not know how to navigate the process. Expose what they don't tell you and provide tips and advice on applying to graduate school.
 
 #### [(PDF download) Some Advice for Prospective Graduate Students (from a PI's perspective)](https://livecsupomona-my.sharepoint.com/:b:/g/personal/jtclaisse_cpp_edu/EVLTQlWIjwpHs0_MZK1xdtEBIFXrYM0sIA9iCqDlgDJwQg?e=u1GJAq)
 
@@ -90,6 +99,7 @@ title: "BIO 5800L Resources"
 -   If working for the Fed Gov't is one of your potential career paths, then make sure you are including the information they ask for on your CV you are creating for 5800L, then it will be there when you go to create a more tailored CV/Resume for a Fed Job Application.
 
 #### [Federal "Resumes": What You Should Know](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/)
+
 -   (text below is from email list: *U.S. Fish & Wildlife Service Vacancy Announcements!*)
 -   *Forget what you have heard about limiting your résumé to only 1 or 2 pages. Federal résumés must be comprehensive to include all the required information and to provide a robust résumé that will ensure you are among the best qualified for a position. (link above to webpage w/ tips and videos in link above that)*
--   *Although there is no reason to limit yourself to 1 or 2 pages, (it is most important to demonstrate to Human Resources that you meet the qualifications and have enough experience that will rank you among the best qualified), keep in mind that almost no hiring manager prefers reading a 20 page résumé. So, do not unnecessarily lengthen your résumé for the sake of showing every skill or experience you’ve ever had. Demonstrate relevant experience adequately, and pare down irrelevant experience.*
+-   *Although there is no reason to limit yourself to 1 or 2 pages, (it is most important to demonstrate to Human Resources that you meet the qualifications and have enough experience that will rank you among the best qualified), keep in mind that almost no hiring manager prefers reading a 20 page résumé. So, do not unnecessarily lengthen your résumé for the sake of showing every skill or experience you've ever had. Demonstrate relevant experience adequately, and pare down irrelevant experience.*

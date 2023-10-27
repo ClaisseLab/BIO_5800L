@@ -65,6 +65,12 @@ title: "BIO 5800L Resources"
 
 #### [How I developed sustainable work habits in academia (Science Magazine Blog Post)](https://www.science.org/content/article/how-i-developed-sustainable-work-habits-in-academia)
 
+#### [Why I use Notion to organize my PhD research (Comentary in Nature)](https://www.nature.com/articles/d41586-023-03323-9)
+
+-   A big part of a masters or PhD program is developing (often through trial and error) your "process" for managing your time, projects and the important information and resources related to your research and other aspects of your work.  
+-   [Notion](https://www.notion.so/) is a free, all-in-one workspace for note-taking, project management and task management.
+
+
 ## Career Advice/Perspectives
 
 #### [Podcast: The World of Scientists (CPP grad student produced)](https://anchor.fm/world-of-scientists)

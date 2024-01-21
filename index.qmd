@@ -24,6 +24,14 @@ title: "BIO 5800L Resources"
 
 -   A straightforward guide to writing each section of a thesis/paper. While originally conceived for undergrads, it is also great for grad students.
 
+#### [Davis and Kay. 2023. **Writing Statistical Methods for Ecologists.** Ecosphere 14(5): e4539](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4539)
+
+-   They provide guidelines for researchers when writing statistical methods and review frequent errors made in Statistical Methods sections. They highlight common **dos and don'ts** when writing Statistical Methods sections and present a simple checklist to help guide authors with their writing to ensure reproducibility.
+
+#### [Muff et al. 2022. Rewriting results sections in the language of evidence, Trends in Ecology & Evolution, 37:3, p 203-210](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4539)
+
+-   Language matters and ‘evidence’ is an intuitive concept that honestly reflects what the data really tell us. To facilitate rewriting scientific results, we offer generic examples of how to translate significance language into a gradual language of evidence you can use when writing results sections.
+
 #### [Methods section too short? Use online protocols to make complex techniques understandable](https://www.nature.com/articles/d41586-023-03249-2)
 
 -   Looking for a method protocol? Check out this article for where to find published versions.

@@ -32,6 +32,10 @@ title: "BIO 5800L Resources"
 
 -   Language matters and ‘evidence’ is an intuitive concept that honestly reflects what the data really tell us. To facilitate rewriting scientific results, we offer generic examples of how to translate significance language into a gradual language of evidence you can use when writing results sections.
 
+#### [Duke Graduate School Scientific Writing Resource](https://sites.duke.edu/scientificwriting/)
+
+-   Intended for science students at the graduate level, this online course material teaches how to write effectively. It is not about correctness (grammar, punctuation, etc.), but about communicating what you intend more clearly to the reader. 
+
 #### [Methods section too short? Use online protocols to make complex techniques understandable](https://www.nature.com/articles/d41586-023-03249-2)
 
 -   Looking for a method protocol? Check out this article for where to find published versions.

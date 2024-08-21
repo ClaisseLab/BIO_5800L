@@ -82,9 +82,12 @@ title: "BIO 5800L Resources"
 -   A big part of a masters or PhD program is developing (often through trial and error) your "process" for managing your time, projects and the important information and resources related to your research and other aspects of your work.  
 -   [Notion](https://www.notion.so/) is a free, all-in-one workspace for note-taking, project management and task management.
 
-## Email - Inbox Zero
+## Email
 
 #### [Inbox Zero Method 101: How to Master It](https://missiveapp.com/blog/inbox-zero)
+
+#### [email Etiquette (UCLA Graduate Writing Center Video)](https://youtu.be/ZPFxP2HDR8s?si=L8M0lLgOK8ugKCT7)
+
 
 ## Career Advice/Perspectives
 

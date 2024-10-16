@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>BIO 5800L - BIO 5800L Resources</title>
+<title>BIO 5800L Resources – BIO 5800L</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -138,6 +138,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#email" id="toc-email" class="nav-link" data-scroll-target="#email">Email</a></li>
   <li><a href="#career-adviceperspectives" id="toc-career-adviceperspectives" class="nav-link" data-scroll-target="#career-adviceperspectives">Career Advice/Perspectives</a></li>
   <li><a href="#applying-to-phd-programs" id="toc-applying-to-phd-programs" class="nav-link" data-scroll-target="#applying-to-phd-programs">Applying to PhD programs</a></li>
+  <li><a href="#researchjobcareer-email-lists-list-serves" id="toc-researchjobcareer-email-lists-list-serves" class="nav-link" data-scroll-target="#researchjobcareer-email-lists-list-serves">Research/Job/Career email lists (list-serves)</a></li>
   <li><a href="#applying-for-federal-jobs" id="toc-applying-for-federal-jobs" class="nav-link" data-scroll-target="#applying-for-federal-jobs">Applying for Federal Jobs</a></li>
   </ul>
 </nav>
@@ -327,6 +328,30 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 </section>
+<section id="researchjobcareer-email-lists-list-serves" class="level2">
+<h2 class="anchored" data-anchor-id="researchjobcareer-email-lists-list-serves">Research/Job/Career email lists (list-serves)</h2>
+<section id="ecological-society-of-americal-aka-ecolog-l-email-list" class="level4">
+<h4 class="anchored" data-anchor-id="ecological-society-of-americal-aka-ecolog-l-email-list"><a href="https://www.esa.org/membership/ecolog/">Ecological Society of Americal aka “Ecolog-L” email list</a></h4>
+<ul>
+<li>Ecolog-L is a list-serv that is a great resource for job postings, conference announcements, and other opportunities in the field of ecology. You can subscribe to the list-serv and have the emails sent to your inbox.</li>
+</ul>
+</section>
+<section id="coral-list" class="level4">
+<h4 class="anchored" data-anchor-id="coral-list"><a href="https://lists.coralreefs.org/mailman/listinfo/coral-list/">Coral-List</a></h4>
+<ul>
+<li>email list focused on coral reef research and conservation</li>
+</ul>
+</section>
+<section id="multiple-marine-conservation-managment-lists-here" class="level4">
+<h4 class="anchored" data-anchor-id="multiple-marine-conservation-managment-lists-here"><a href="https://octogroup.org/">Multiple Marine Conservation &amp; Managment lists here</a></h4>
+<ul>
+<li>The Ocean Conservation, Research, and Education Network (OCTO) has a number of email lists that you can subscribe to. These lists are a great resource for job postings, conference announcements, and other opportunities in the field of marine conservation and management.</li>
+</ul>
+</section>
+<section id="and-for-others-more-focused-on-your-sub-field-ask-your-advisor" class="level4">
+<h4 class="anchored" data-anchor-id="and-for-others-more-focused-on-your-sub-field-ask-your-advisor">And for others more focused on your sub-field ask your advisor!</h4>
+</section>
+</section>
 <section id="applying-for-federal-jobs" class="level2">
 <h2 class="anchored" data-anchor-id="applying-for-federal-jobs">Applying for Federal Jobs</h2>
 <section id="tips-to-write-an-effective-federal-resume-youtube-video" class="level4">
@@ -387,18 +412,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -430,7 +444,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -438,7 +474,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

@@ -59,6 +59,12 @@ title: "BIO 5800L Resources"
 
 #### [CPP training and support links for Canvas)](https://www.cpp.edu/cafe/teaching-and-learning/lms-support/index.shtml)
 
+## Challenges as a Grad Student
+
+#### [Video Repository - Fail-Safe Science](https://risecenter.asu.edu/fail-safe)
+
+-   Fail-Safe Science is an initiative that normalizes the challenges and setbacks faced in graduate research. Explore videos of scientists sharing the obstacles they encountered during their PhD programs, how they overcame them, and their advice for current graduate students. Search the repository by challenge type to learn how successful scientists navigate failure and growth in science.
+
 ## Being a Mentor
 
 #### [Emery et al. 2019. Strategies for successful mentorship of undergraduate researchers. Ecol Evol. 9: 4316--4326.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5090)

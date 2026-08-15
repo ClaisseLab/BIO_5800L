@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>BIO 5800L Resources – BIO 5800L</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e84dea4794a10ce3ad7229a836ad9ece.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-9b3b12babb541c315d9ea4b5d647408d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -319,6 +322,12 @@ ul.task-list li input[type="checkbox"] {
 <li>Navigating the graduate school application process is often challenging, requiring intricate knowledge of academia and graduate institutional structures. This “Hidden Curriculum of Academia” includes what different graduate degrees offer, how to connect with a faculty member of interest, and the skills needed to submit a “competitive” application.</li>
 </ul>
 </section>
+<section id="nature-article-prior-to-applying-for-phd-programs---how-to-cold-e-mail-potential-pis-labs-youd-want-to-be-in" class="level4">
+<h4 class="anchored" data-anchor-id="nature-article-prior-to-applying-for-phd-programs---how-to-cold-e-mail-potential-pis-labs-youd-want-to-be-in"><a href="https://www.nature.com/articles/d41586-023-00786-8">Nature Article: Prior to applying for PhD programs - How to cold e-mail potential PIs (labs you’d want to be in)</a></h4>
+<ul>
+<li>This article provides guidance on how to reach out to potential PIs (labs) you are interested in joining. It is important to do this before you apply to programs, as it can help you determine if a lab is a good fit for you and if they are accepting new students.</li>
+</ul>
+</section>
 <section id="pdf-download-a-guide-for-applying-to-graduate-school-in-biology-written-by-the-german-lab-dept.-of-ecology-evolutionary-biology-uc-irvine" class="level4">
 <h4 class="anchored" data-anchor-id="pdf-download-a-guide-for-applying-to-graduate-school-in-biology-written-by-the-german-lab-dept.-of-ecology-evolutionary-biology-uc-irvine"><a href="https://t.co/64nybx1Nlv">(PDF download) A guide for applying to graduate school in Biology (Written by The German Lab, Dept. of Ecology &amp; Evolutionary Biology, UC Irvine)</a></h4>
 <ul>
@@ -451,13 +460,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

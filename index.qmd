@@ -57,7 +57,7 @@ title: "BIO 5800L Resources"
 
 #### [2 hr video tutorial on using Canvas as an instructor (Linkedin Learning)](https://www.linkedin.com/learning/learning-canvas-2021/create-and-manage-courses-with-canvas?u=56973593)
 
-#### [CPP training and support links for Canvas)](https://www.cpp.edu/cafe/teaching-and-learning/lms-support/index.shtml)
+#### [CPP training and support links for Canvas)](https://www.cpp.edu/cafe/canvas/index.shtml)
 
 ## Challenges as a Grad Student
 

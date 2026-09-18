@@ -1,1 +1,118 @@
-/* css styles */
+/* BIO 5800L website styles */
+
+/* Improve overall readability */
+body {
+  font-size: 1.02rem;
+}
+
+/* Add subtle depth to the navigation bar */
+.navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+
+/* Strengthen the page-title hierarchy */
+.quarto-title h1,
+h1.title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Clearly separate major resource categories */
+main.content h2 {
+  margin-top: 2.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 3px solid var(--bs-primary);
+}
+
+/* Make individual resource titles easier to scan */
+main.content h4 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.4rem;
+  padding-left: 0.7rem;
+  border-left: 0.25rem solid var(--bs-primary);
+  font-weight: 600;
+}
+
+/* Improve link appearance and hover feedback */
+main.content a {
+  text-underline-offset: 0.18em;
+}
+
+main.content h4 a {
+  text-decoration: none;
+}
+
+main.content h4 a:hover {
+  text-decoration: underline;
+}
+
+/* Make the active table-of-contents item more prominent */
+#TOC .nav-link.active {
+  font-weight: 600;
+  color: var(--bs-primary);
+}
+
+/* Reduce excessive spacing in the footer */
+.nav-footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+/* Light/dark-mode control --------------------------------------------- */
+
+/* Arrange navbar tools so their order can be controlled */
+.navbar .quarto-navbar-tools {
+  display: flex;
+  align-items: center;
+}
+
+/* Move the control before the home and GitHub icons and style it */
+.quarto-navbar-tools .quarto-color-scheme-toggle {
+  order: -1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  width: auto;
+  margin-right: 0.5rem;
+  padding: 0.3rem 0.55rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 0.4rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* In light mode, indicate that clicking switches to dark mode */
+.quarto-navbar-tools
+  .quarto-color-scheme-toggle:not(.alternate)::after {
+  content: "Dark";
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* In dark mode, indicate that clicking switches to light mode */
+.quarto-navbar-tools
+  .quarto-color-scheme-toggle.alternate::after {
+  content: "Light";
+  font-size: 0.82rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* Provide clearer hover feedback */
+.quarto-navbar-tools .quarto-color-scheme-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.14);
+  color: #fff;
+}
+
+/* Hide the text on smaller screens to prevent navbar crowding */
+@media (max-width: 991.98px) {
+  .quarto-navbar-tools .quarto-color-scheme-toggle::after {
+    display: none;
+  }
+
+  .quarto-navbar-tools .quarto-color-scheme-toggle {
+    margin-right: 0.2rem;
+    padding: 0.25rem !important;
+  }
+}
